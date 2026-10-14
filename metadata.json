@@ -1,0 +1,8 @@
+{
+  "name": "Seventh Sense Spa and Wellness",
+  "description": "Seventh Sense Spa and Wellness offers premium massage and spa therapies in Connaught Place, New Delhi. Experience luxury relaxation, professional therapists, and rejuvenating wellness treatments.",
+  "prompt": "Seventh Sense Spa and Wellness - Luxury Massage and Spa therapies in Connaught Place, New Delhi",
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
